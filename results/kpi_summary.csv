@@ -1,0 +1,5 @@
+scenario,total_distance_km,total_time_hrs,vehicles_used,avg_route_time_hrs
+base,207.28,6.91,2,3.45
+traffic_peak,207.28,9.87,2,4.94
+extra_demand,207.28,6.91,2,3.45
+vehicle_shortage,231.85,7.73,3,2.58
